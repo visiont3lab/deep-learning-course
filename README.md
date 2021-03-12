@@ -12,6 +12,6 @@ Note Classe [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 5. (11/03/2021)DG 3 ore: Classification with NN (Keras)  [PDF](material/30.0_NN.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/30-DL-Basics.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/31_Intro_ANN.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/02_Breast_Cancer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/32_Breast_Cancer.ipynb)
 
 
