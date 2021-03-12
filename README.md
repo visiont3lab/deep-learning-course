@@ -9,7 +9,7 @@
 4. (10/03/2021)MR 3 ore: Neural Network Design and Structure, Sine Approximation Example
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/NN_structure.ipynb)
 Note Classe [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/NN_structure_Class.ipynb)
-6. (11/03/2021)DG 3 ore: Classification with NN (Keras) 
+5. (11/03/2021)DG 3 ore: Classification with NN (Keras)[PDF_1](materiale/30.0_NN.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/30-DL-Basics.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/31_Intro_ANN.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/02_Breast_Cancer.ipynb)
