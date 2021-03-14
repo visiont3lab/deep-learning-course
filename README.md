@@ -14,6 +14,6 @@ Note Classe [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/31_Intro_ANN.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/32_Breast_Cancer.ipynb)
 6. (11/03/2021)DG 3 ore: Regression (Universal Function Estimator) e Classification (Zone di rischio italia) esempi
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Regression_Classification_Example.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Regression_Classification_Examples.ipynb)
 
 
