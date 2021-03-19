@@ -24,5 +24,7 @@ Note Classe [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.3_Dog_Cat_subset_part1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.3_Dog_Cat_subset_part2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.4_TL_Flowers.ipynb)
+Introduzione Alle CNN [PDF](material/39_Resume.pdf) [PDF](material/40.0.pdf) 
+
 
 
