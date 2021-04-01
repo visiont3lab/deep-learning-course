@@ -36,3 +36,4 @@ Introduzione Alle CNN [PDF](material/39_Resume.pdf) [PDF](material/40.0.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.5_Vocabulary-and-Matching.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.7_Word2vec_Gensim.ipynb)
 13. (31/03/2021)MR 3 ore: Transfer Learning Applied to Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningBeesAnts.ipynb)
+14. (01/04/2021)DG 3 ore: Intro to RNN - Esercitazioni 
