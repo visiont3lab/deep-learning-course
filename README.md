@@ -51,3 +51,5 @@ Introduzione Alle CNN [PDF](material/39_Resume.pdf) [PDF](material/40.0.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/91_ACF-and-PACF.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/92_Autoregression-AR.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/94_Time_Series_Auto_ARIMA.ipynb)
+
+* Extra: OCR [Tesseract](https://pub.towardsai.net/using-tesseract-ocr-for-text-recognition-with-google-colab-1c4513b9d3e0)
