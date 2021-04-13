@@ -47,4 +47,7 @@ Introduzione Alle CNN [PDF](material/39_Resume.pdf) [PDF](material/40.0.pdf)
 16. (09/04/2021)DG 3 ore: Intro timeseries analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.3_Statsmodel.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.5_yfinance_intro.ipynb)
 17. (12/04/2021)MR 3 ore: Segmentation Pretrained model (Deeplabv3-resenet) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/PretrainedSegmentationModel.ipynb) [Streamlit Segmetation App inference App](https://github.com/visiont3lab/streamlit-example)
-
+18. (09/04/2021)DG 3 ore: Timeseries Forecasting  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/90_Introduction-to-Forecasting-Revised.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/91_ACF-and-PACF.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/92_Autoregression-AR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/94_Time_Series_Auto_ARIMA.ipynb)
