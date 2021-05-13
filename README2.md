@@ -33,5 +33,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/71_RNN_Imdb_review_classifier.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/72_twitter_eda.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/73_Twitter_Sentiment.ipynb)
-10. (0/0/2021)DG 3 ore: Intro timeseries analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.3_Statsmodel.ipynb)
+10. (0/0/2021)DG 3 ore: Intro timeseries analysis 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/80.1_Datetime1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/80.2_Datatime2_Rolling_SMA.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.3_Statsmodel.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.5_yfinance_intro.ipynb)
+
+
+
