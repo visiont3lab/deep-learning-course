@@ -41,3 +41,5 @@
 11. (13/05/2021)DG 3 ore: Timeseries Forecasting  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/90_Introduction-to-Forecasting-Revised.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/91_ACF-and-PACF.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/92_Autoregression-AR.ipynb)
+[PDF](material/89_statmodel.pdf)
+[PDF](material/90_forecast_models.pdf)
