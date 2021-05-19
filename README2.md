@@ -43,7 +43,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/92_Autoregression-AR.ipynb)
 [PDF](material/89_statmodel.pdf)
 [PDF](material/90_forecast_models.pdf)
-(18/05/2021)DG 3 ore: Time series LSTM - Text Generator
+12. (18/05/2021)DG 3 ore: Time series LSTM - Text Generator
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/10.0_Intro_Prophet.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/10.1_Prophet_Changing-Seasonality.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/10.2_Energetic_Forecast_Prophet.ipynb)
