@@ -10,3 +10,4 @@ Deep learning course:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/32_Breast_Cancer.ipynb)
 5. (22/11/2021)MR 3 ore: Neural Network Design and Structure, Sine Approximation Example
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/NN_structure.ipynb) Pytorch Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Pytorch_Intro.ipynb)
+6. (23/11/2021)DG 3 ore:  Multi -Classification - MNIST problem - Intro CNN
