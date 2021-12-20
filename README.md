@@ -48,3 +48,11 @@ Deep learning course:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/_Attention_is_All_You_Need.ipynb)
 
 15. (14/12/2021)MR 3 ore: Transfer Learning Applied to Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningBeesAnts.ipynb) Transfer Learning Notes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningNotes.ipynb)
+
+16. (20/12/2021)MR 3 ore: Segmentation Pretrained model (Deeplabv3-resenet) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/PretrainedSegmentationModel.ipynb) [Streamlit Segmetation App inference App](https://github.com/visiont3lab/streamlit-example)
+
+17. (21/12/2021) Segmentation Micro Sd Card Project:  Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Segmentation_micro_sd_card.ipynb)
+Deploy  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Deploy_Segmentation_micro_sd_card.ipynb) 
+
+* Extra: OCR [Tesseract](https://pub.towardsai.net/using-tesseract-ocr-for-text-recognition-with-google-colab-1c4513b9d3e0)
+* Extra: Note Training Loop Pytorch: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Notes_Pytorch_Optimizing_Model_Parameters.ipynb) 
