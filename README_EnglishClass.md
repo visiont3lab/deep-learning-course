@@ -1,4 +1,5 @@
 1. (04/03/2021)MR 3 ore:  Deep Learning with Python (Class, Function, Numpy array, Tensor, List)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Python_Recap.ipynb) Classe Python Recap [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Python_RecapClass.ipynb)  Excercise Covid (Pandas) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/ExcercisePythonCovid.ipynb)
-2. Neural Network Design and Structure,  Excercise Sine Approximation Example
+2. Neural Network Design and Structure,  Excercise Numpy Pytorch NN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/ExcerciseNetworkPytorchNumpy.ipynb) 
+4. Excercise Sine Approximation Example
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/ExcerciseSineApprox.ipynb) 
