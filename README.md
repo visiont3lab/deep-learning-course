@@ -20,3 +20,6 @@ Extra: Excercise Covid (Plolty-Pandas) [![Open In Colab](https://colab.research.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.3_Dog_Cat_subset_part1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.3_Dog_Cat_subset_part2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.4_TL_Flowers.ipynb)
+9. (31/05/2022)DG 3 ore: Intro regular Expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/50_re.ipynb)
+10. (01/06/2022)DG 3 ore: NLP concepts: from Spacy to NLTK [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.0_Spacy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.1_Tokenization.ipynb)
