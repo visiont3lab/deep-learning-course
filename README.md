@@ -26,3 +26,18 @@ Extra: Excercise Covid (Plolty-Pandas) [![Open In Colab](https://colab.research.
 11. (08/06/2021)MR 3 ore: Convolutional Neural Network, Image data loader [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Convolution.ipynb) Convolutional Neural Network Covid-19 Mask Classifier  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/CovidMaskClassifier.ipynb) Convolutional Neural Network Covid-19 Mask Classifier  Class Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/ClassificationProblemClass.ipynb)
 12. (13/06/2022)MR 3 ore: Transfer Learning Applied to Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningBeesAnts.ipynb) Transfer Learning Notes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningNotes.ipynb)
 convnext_base transfer learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningBeesAntsExampleConvxnet.ipynb)
+
+13.(10/06/2022)DG 3 ore: Esercizi ed Applicazioni NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/50_Es_RE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.7_Word2vec_Gensim.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.9_Yelp_exampleNLP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.10_Sentiment-Analysis-NLTK_VADER.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/70.0_unbalanced_ham_spam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/70.1_Spam_with_Spacy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/70.2_twitter_eda.ipynb)
+
+14.(14/06/2022)DG 3 ore: LSTM 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.0_RNN_LSTM_Keras.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.1_Text_generation_LSTM.ipynb)
+
+
+
