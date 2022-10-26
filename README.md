@@ -13,3 +13,7 @@ Extra: Excercise Covid (Plolty-Pandas) [![Open In Colab](https://colab.research.
 5. (20/10/2022)DG 3 ore: Classification with NN (Keras)  [PDF](material/30.0_NN.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/31_Intro_ANN.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/32_Breast_Cancer.ipynb)
+6. (26/10/2022) MR 3 ore: Pytorch Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Pytorch_Intro.ipynb)
+ Therory Sine Approximation example
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/NN_structure.ipynb)   Extra: Exercise regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/Regressione.ipynb) Example Feedforward Step 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/NeuralNetPytorch.ipynb)
