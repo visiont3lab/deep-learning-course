@@ -28,8 +28,10 @@ Extra: Approfondimento in dettaglio  [![Open In Colab](https://colab.research.go
 9. (03/11/2022) DG 3 ore: Image Classification Keras from Scratch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.2_Fashion_MNIST.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.3_Dog_Cat_subset_part1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.3_Dog_Cat_subset_part2.ipynb)
-9. (07/11/2022) DG 3 ore: TL with Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.4_TL_Flowers.ipynb)
+10. (07/11/2022) DG 3 ore: TL with Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/40.4_TL_Flowers.ipynb)
+11. (08/11/2022) MR 3 ore: Convolutional Neural Network Covid-19 Mask Classifier  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/CovidMaskClassifier.ipynb) Convolutional Neural Network Covid-19 Mask Classifier  Class Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/ClassificationProblemClass.ipynb)
+12. (11/11/2022)DG 3 ore: Intro regular Expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/50_re.ipynb)
 
 
-10. (08/11/2022) MR 3 ore: Convolutional Neural Network Covid-19 Mask Classifier  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/CovidMaskClassifier.ipynb) Convolutional Neural Network Covid-19 Mask Classifier  Class Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/ClassificationProblemClass.ipynb)
+
 
