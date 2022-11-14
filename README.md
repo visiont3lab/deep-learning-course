@@ -36,7 +36,6 @@ Grad Cam Example[![Open In Colab](https://colab.research.google.com/assets/colab
 11. (08/11/2022) MR 3 ore: Convolutional Neural Network Covid-19 Mask Classifier  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/CovidMaskClassifier.ipynb) Convolutional Neural Network Covid-19 Mask Classifier  Class Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/ClassificationProblemClass.ipynb)
 12. (11/11/2022)DG 3 ore: Intro regular Expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/50_re.ipynb)
 [Regular_Expression_PDF](material/Presentazione_regular.pdf)
-
-
-
+13. (14/11/2022)DG 3 ore: NLP concepts: Spacy examples [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.0_Spacy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.1_Tokenization.ipynb)
 
