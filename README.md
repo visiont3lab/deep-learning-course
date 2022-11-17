@@ -40,7 +40,7 @@ Grad Cam Example[![Open In Colab](https://colab.research.google.com/assets/colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/60.1_Tokenization.ipynb)
 14. (15/11/2022)MR 3 ore: Transfer Learning Applied to Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningBeesAnts.ipynb) Transfer Learning Notes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningNotes.ipynb)
 convnext_base transfer learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/TransferLearningBeesAntsExampleConvxnet.ipynb)
-15. (16/11/2022)DG 3 ore: [NLP-part1](material/NLP PART1.pdf) [NLP-part2](material/NLP PART2.pdf)
+15. (16/11/2022)DG 3 ore: [NLP-part1](material/NLP_PART1.pdf) [NLP-part2](material/NLP_PART2.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/06.7_Word2vec_Gensim.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.0_RNN_Imdb_review_classifier.ipynb)
 16. (16/11/2022)DG 3 ore:
