@@ -49,4 +49,5 @@ IMDB with RNN-LSTM model
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.1_Text_generation_LSTM.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.2_GPT2_Transformers_Generating_Blog_Posts.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.5_T5_Transformer.ipynb)
-(21/11/2022)DG 3 ore: TS intro
+(21/11/2022)DG 3 ore: Deep Learning Cheatsheet [Cheatsheet](material/DeepLearningCheatsheet.pdf) TS intro
+
