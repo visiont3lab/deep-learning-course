@@ -44,5 +44,8 @@ convnext_base transfer learning [![Open In Colab](https://colab.research.google.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/06.7_Word2vec_Gensim.ipynb)
 IMDB with RNN-LSTM model
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.0_RNN_Imdb_review_classifier.ipynb)
-16. (17/11/2022)DG 3 ore:
-
+16. (17/11/2022)DG 3 ore: [RNN_LSTM](material/RNN_LSTM.pdf) [TRANSFORMERS_P1](material/Transformers_P1.pdf)[TRANSFORMERS_P2](material/Transformers_P2.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.0_RNN_LSTM_Keras.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.1_Text_generation_LSTM.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.2_GPT2_Transformers_Generating_Blog_Posts.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/08.5_T5_Transformer.ipynb)
